@@ -1,0 +1,7 @@
+a:active{
+    background-color: rgb(0, 68, 240);
+    
+}
+input:focus{
+    background-color: aquamarine;
+}
